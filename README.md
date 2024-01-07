@@ -10,3 +10,24 @@
 <a name="introduccion"></a> 
 ## General information
 This repository uses some intermediate CSS techniques to code a Picasso painting web page. It is implemented on SVG icons, CSS positioning in addition to other CSS tools.
+
+## Project status 🚧 
+<details>
+    <summary>Click Here for Detail ↩️</summary>
+    <br>
+   <p align="justify">The project is finished as it implements CSS to improve the visual aspects of the application.🔨 </p>
+   </details>
+   <hr>
+
+<a name="technologies"></a> 
+   ## Used technology  💻 
+   
+<details>
+    <summary>Click Here for Detail ↩️</summary>
+    <br>
+   <p>Used technology:</p>
+<ul>
+  <li>CSS: <a href="https://lenguajecss.com/css/">Link to the official language documentation</a></li>
+  <li>HTML5: <a href="https://lenguajehtml.com/html/">Link to the official language documentation</a></li>
+  <li>VS Code: <a href="https://code.visualstudio.com/">Link to the official page</a></li>
+</ul>
